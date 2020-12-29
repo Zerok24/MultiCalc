@@ -131,6 +131,8 @@ public class CurrencyConvertionPanel extends JPanel implements ActionListener{
 			convertFrom.addItem(currency.toString());
 			convertTo.addItem(currency.toString());
 		}
+		convertFrom.setSelectedIndex(148);
+		convertTo.setSelectedIndex(48);
 	}
     
     
