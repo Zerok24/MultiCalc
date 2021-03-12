@@ -1,4 +1,6 @@
-package gui;
+package app;
+
+import gui.CalcWindow;
 
 /**
  * Driver for the Application
